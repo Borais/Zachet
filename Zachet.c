@@ -20,7 +20,7 @@ int main()
 	printf("Enter size of the first array: "); 
 	scanf("%d %d", &m,&n);
 
-	/////////////////////////////น 1
+	/////////////////////////////ยน 1
 	// Entering and output of array
 	  /*for (j = 0; j < n; j++)     
 		for (i = 0; i < m; i++)
@@ -43,7 +43,7 @@ int main()
 	}
 		printf("\n"); 
 
-	/////////////////////////////น 2
+	/////////////////////////////ยน 2
 
 		k = 0;
 	for (j = 0; j < m; j++)
@@ -63,7 +63,7 @@ int main()
 	}
 		printf("\n");
 
-		/////////////////////////////น 3
+		/////////////////////////////ยน 3
 		// Searching minimum
 		min = arr[0][0]; 
 		k = 0;
@@ -109,7 +109,7 @@ int main()
 				}
 			}
 			
-		/////////////////////////////น 4( not working)
+		/////////////////////////////ยน 4( not working)
 		// Entering size of filling of array
 		printf("\n Enter size of the second array: "); 
 		scanf("%d %d", &n1, &q);
@@ -132,7 +132,7 @@ int main()
 		}
 		printf("\n");
 
-		/////////////////////////////น 5
+		/////////////////////////////ยน 5
 
 		if (((m - 1) == q) && ((n - 1) == n1))
 		{
